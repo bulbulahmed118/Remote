@@ -1,3 +1,3 @@
 public class remote {
-    public static void main{}
+    int a, b;
 }
